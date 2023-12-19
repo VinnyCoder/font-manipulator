@@ -1,0 +1,10 @@
+#header_div{
+    background-color: lightblue;
+    font-style: inherit;
+}
+#onefooter{
+    size: 50px;
+    position: fixed;
+    bottom: 0;
+    font-size: large;
+}
